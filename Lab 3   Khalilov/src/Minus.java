@@ -12,3 +12,4 @@ public class Minus extends Thread {
         sharedObject.dec();
     }
 }
+

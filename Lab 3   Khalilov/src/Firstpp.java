@@ -42,3 +42,4 @@ public class Firstpp {
         System.out.println(u1-u2);
     }
 }
+
